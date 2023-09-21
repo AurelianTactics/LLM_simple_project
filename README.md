@@ -5,3 +5,6 @@ Fine tuning data is in the git-ignore. Have to load fine tuning data into the mo
 # Sources
 https://www.deeplearning.ai/short-courses/finetuning-large-language-models/
 https://www.lamini.ai/
+
+# Possible next steps:
+Deployment. Better finetuning. Different model sizes. Different training sets.
